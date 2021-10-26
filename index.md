@@ -7,14 +7,14 @@
 ## 💻 Software Engineer
 
 - 👨🏻‍🎓 I’m currently studying for my Master Degree in Computer Science at University of Rome "La Sapienza"
-- 📫 How to reach me: [Linkedin] - stefano@dropoutmilano.com
+- 📫 How to reach me: [Linkedin] - <a href='mailto:stefano@dropoutmilano.com'>stefano@dropoutmilano.com</a>
 - 👟 Fun fact: I love sneakers
 
 ## Connect with me
 
-[<img align="left" alt="stepzepp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="Stefano Zeppieri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="stepzepp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" alt="stepzepp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;&nbsp;
+[<img align="left" alt="Stefano Zeppieri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;
+[<img align="left" alt="stepzepp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
