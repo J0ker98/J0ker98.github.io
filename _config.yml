@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: Stefano Zeppieri - Italian Software Engineer and Entrepreneur
 description: I am Computer Science graduate and student with a passion for streetwear and sneakers. Since the age of 15 I am a self taught coder and avid reader. Over the last few years I have significantly expanded my network and been directly involved in several high profile projects.
 google_analytics: G-H280YB34L0
+github:
+  is_project_page: false
+logo: https://avatars.githubusercontent.com/u/7490059?v=4
