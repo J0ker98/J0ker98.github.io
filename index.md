@@ -26,8 +26,6 @@ HypeAnalyzer is the world's first tool of sneakers/Supreme secondary market anal
 
 With a mathematical approach, we objectively analyze and report trends in the resell market of Nike, adidas, Jordan, Balenciaga and Asics sneakers, as well as assessing the value of selected items from the weekly drop of the streetwear label Supreme NewYork 1994.
 
-<br />
-
 ## Programming Languages
 
 - SwiftUI
