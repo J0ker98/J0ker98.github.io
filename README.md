@@ -1,3 +1,1 @@
-### Stefano Zeppieri
-
-My personal website repository
+## Stefano Zeppieri
