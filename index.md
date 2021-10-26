@@ -2,8 +2,6 @@
 
 ## Hi there, I'm Stefano 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/stepzepp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJ0ker98&screen_name=stepzepp)
-
 ## 💻 Software Engineer
 
 - 👨🏻‍🎓 I’m currently studying for my Master Degree in Computer Science at University of Rome "La Sapienza"
