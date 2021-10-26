@@ -37,7 +37,7 @@ With a mathematical approach, we objectively analyze and report trends in the re
 
 <br />
 
-## Languages
+## Programming Languages
 
 - SwiftUI
 - Python
