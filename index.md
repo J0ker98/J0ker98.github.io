@@ -1,5 +1,3 @@
-### Stefano Zeppieri
-
 ## Hi there, I'm Stefano 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/stepzepp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJ0ker98&screen_name=stepzepp)
@@ -9,15 +7,6 @@
 - 👨🏻‍🎓 I’m currently studying for my Master Degree in Computer Science at University of Rome "La Sapienza"
 - 📫 How to reach me: [Linkedin] - <a href='mailto:stefano@dropoutmilano.com'>stefano@dropoutmilano.com</a>
 - 👟 Fun fact: I love sneakers
-
-## Connect with me
-
-[<img align="left" alt="stepzepp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;&nbsp;
-[<img align="left" alt="Stefano Zeppieri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;
-[<img align="left" alt="stepzepp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
 
 ## Current Projects
 
