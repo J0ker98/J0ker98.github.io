@@ -4,7 +4,7 @@ name: Stefano Zeppieri
 description: Computer Science graduate and student with a passion for streetwear and sneakers. Since the age of 15 a self taught coder and avid reader. Over the last few years I have significantly expanded my network and been directly involved in several high profile projects.
 google_analytics: G-H280YB34L0
 url: "https://stefanozeppieri.com"
-logo: https://avatars.githubusercontent.com/u/7490059?v=4
+logo: /profile.jpg
 social:
   linkedin: https://www.linkedin.com/in/stefano-zeppieri/
   instagram: https://instagram.com/stepzepp
@@ -12,7 +12,7 @@ social:
   facebook: https://www.facebook.com/stepzepp
   email: stefano@dropoutmilano.com
 image:
-  path: https://avatars.githubusercontent.com/u/7490059?v=4
+  path: /profile.jpg
 author: Stefano Zeppieri
 social:
   name: Stefano Zeppieri
