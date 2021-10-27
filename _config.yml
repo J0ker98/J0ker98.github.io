@@ -11,3 +11,13 @@ social:
   twitter: https://twitter.com/stepzepp
   facebook: https://www.facebook.com/stepzepp
   email: stefano@dropoutmilano.com
+image:
+  path: https://avatars.githubusercontent.com/u/7490059?v=4
+seo:
+  name: Stefano Zeppieri
+  links:
+    - https://www.linkedin.com/in/stefano-zeppieri/
+    - https://instagram.com/stepzepp
+    - https://twitter.com/stepzepp
+    - https://www.facebook.com/stepzepp
+  type: Person
