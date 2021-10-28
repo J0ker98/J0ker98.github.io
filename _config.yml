@@ -13,6 +13,8 @@ socials:
   email: stefano@dropoutmilano.com
 image:
   path: /profile.jpg
+  height: 1365
+  width: 2048
 author: Stefano Zeppieri
 social:
   name: Stefano Zeppieri
