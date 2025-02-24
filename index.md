@@ -12,7 +12,7 @@
 
 ### [dropout]
 
-Limited edition sneakers & clothing; innovative streetwear brands and a premier experience. dropout is now open, right in the center of the city of fashion.
+Limited edition sneakers & clothing; innovative streetwear brands and a premier experience.
 
 ### [Outpump]
 
