@@ -10,10 +10,6 @@
 
 ## Current Projects
 
-### [dropout]
-
-Limited edition sneakers & clothing; innovative streetwear brands and a premier experience.
-
 ### [Outpump]
 
 Outpump is an online magazine born in 2016 that aims to keep its readers updated about everything that concerns the streetwear world, with an eye for fashion as well as for music and lifestyle. Our goal is to be the leading magazine in Italy for all the streetwear and sneakers lovers through the latest news, interviews with influential personalities, in-depth articles and much more.
