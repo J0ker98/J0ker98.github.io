@@ -8,18 +8,6 @@
 - 📫 How to reach me: [Linkedin] - <a href='mailto:me@stefanozeppieri.com'>me@stefanozeppieri.com</a>
 - 👟 Fun fact: I love sneakers
 
-## Current Projects
-
-### [Outpump]
-
-Outpump is an online magazine born in 2016 that aims to keep its readers updated about everything that concerns the streetwear world, with an eye for fashion as well as for music and lifestyle. Our goal is to be the leading magazine in Italy for all the streetwear and sneakers lovers through the latest news, interviews with influential personalities, in-depth articles and much more.
-
-### [HypeAnalyzer]
-
-HypeAnalyzer is the world's first tool of sneakers/Supreme secondary market analysis. The streetwear resell market represents a billions worth "industry" which is largely underestimated by traditional investors.
-
-With a mathematical approach, we objectively analyze and report trends in the resell market of Nike, adidas, Jordan, Balenciaga and Asics sneakers, as well as assessing the value of selected items from the weekly drop of the streetwear label Supreme NewYork 1994.
-
 ## Languages
 
 - Swift
