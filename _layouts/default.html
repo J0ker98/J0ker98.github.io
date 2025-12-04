@@ -1,50 +1,31 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
+<html lang="{{ site.lang | default: 'en-US' }}" class="scroll-smooth">
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% include head-custom.html %}
 </head>
 
-<body>
-    <div class="wrapper">
-        <header>
-            <h1><a href="#">{{ site.author | default: site.github.repository_name }}</a></h1>
+<body class="bg-slate-900 text-slate-300 font-sans antialiased selection:bg-indigo-500 selection:text-white">
+    <div class="fixed inset-0 z-[-1]">
+        <div class="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] rounded-full bg-indigo-500/20 blur-[120px]"></div>
+        <div class="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] rounded-full bg-purple-500/20 blur-[120px]">
+        </div>
+    </div>
 
-            {% if site.logo %}
-            <img src="{{site.logo | relative_url}}" alt="{{ site.author }}" />
-            {% endif %}
+    <div class="max-w-4xl mx-auto px-6 py-12 md:py-20">
+        {{ content }}
 
-            <br><br>
-
-            <h3>Who am I?</h3>
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-            <h3>Connect with me</h3>
-            <ul class="downloads">
-                <li><a href="{{ site.socials.linkedin }}" target="_blank"><strong>LinkedIn</strong></a></li>
-                <li><a href="{{ site.socials.instagram }}" target="_blank"><strong>Instagram</strong></a></li>
-                <li><a href="{{ site.socials.facebook }}" target="_blank"><strong>Facebook</strong></a></li>
-            </ul>
-        </header>
-        <section>
-
-            {{ content }}
-
-        </section>
-        <footer>
-            <p><small>&copy; Stefano Zeppieri 2022</small></p>
+        <footer class="mt-20 pt-8 border-t border-slate-800 text-center text-sm text-slate-500">
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}.</p>
         </footer>
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 </body>
 
 </html>

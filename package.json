@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-rebuild",
+  "version": "1.0.0",
+  "description": "Portfolio website rebuild with TailwindCSS",
+  "scripts": {
+    "build:css": "tailwindcss -i ./assets/css/input.css -o ./assets/css/style.css",
+    "watch:css": "tailwindcss -i ./assets/css/input.css -o ./assets/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "Stefano Zeppieri",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
