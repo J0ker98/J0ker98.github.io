@@ -6,7 +6,7 @@
   ### Software Engineer & PhD Student
   
   <p align="center">
-    Computer Science graduate and Ph.D. student with a passion for streetwear and sneakers. Since the age of 15 a self taught coder and avid reader. Over the last few years I have significantly expanded my network and been directly involved in several high profile projects.
+    Software Engineer and Ph.D. Student at Sapienza University of Rome. Researching Large Language Models and Human-Computer Interaction. Passionate about creating intuitive, AI-driven web experiences.
   </p>
 
   <div>
@@ -37,6 +37,14 @@ Methodologies for converting unstructured data into structured formats using LLM
 *Conference Paper - Jun 2024*  
 Cognitive walkthrough inspired evaluations using GPT-4 tools.  
 [Read on ResearchGate](https://www.researchgate.net/publication/381119522_Enhancing_Interface_Design_with_AI_An_Exploratory_Study_on_a_ChatGPT-4-Based_Tool_for_Cognitive_Walkthrough_Inspired_Evaluations)
+
+<br />
+
+<div align="center">
+  <a href="https://www.researchgate.net/profile/Stefano-Zeppieri" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Publications-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="View All Publications" />
+  </a>
+</div>
 
 <br />
 

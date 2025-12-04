@@ -95,6 +95,19 @@ layout: default
             </p>
         </a>
     </div>
+    </div>
+
+    <div class="mt-12 text-center">
+        <a href="https://www.researchgate.net/profile/Stefano-Zeppieri" target="_blank"
+            class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-slate-800 hover:bg-slate-700 text-white font-semibold transition-all border border-slate-700 hover:border-indigo-500 group">
+            View All Publications
+            <svg class="w-4 h-4 text-indigo-400 group-hover:translate-x-1 transition-transform" fill="none"
+                stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3">
+                </path>
+            </svg>
+        </a>
+    </div>
 </section>
 
 <!-- Skills Section -->
@@ -108,8 +121,8 @@ layout: default
         <div>
             <h3 class="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-4">Languages</h3>
             <div class="flex flex-wrap gap-3">
-                {% assign languages = "Go, JavaScript, TypeScript, Swift, Flutter, Python, PHP, Java, Scala, SQL, CSS,
-                HTML, Bash" | split: ", " %}
+                {% assign languages = "Go, JavaScript, TypeScript, Swift, Flutter, Python, PHP, Java, Scala, SQL, Bash"
+                | split: ", " %}
                 {% for lang in languages %}
                 <span
                     class="px-3 py-1.5 rounded-lg bg-slate-800 text-slate-300 text-sm font-medium border border-slate-700 hover:border-slate-500 transition-colors cursor-default">
