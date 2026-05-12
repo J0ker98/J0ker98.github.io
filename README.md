@@ -3,10 +3,10 @@
   
   # Stefano Zeppieri
   
-  ### Software Engineer & PhD Student
+  ### Software Engineer & PhD
   
   <p align="center">
-    Software Engineer and Ph.D. Student at Sapienza University of Rome. Researching Large Language Models and Human-Computer Interaction. Passionate about creating intuitive, AI-driven web experiences.
+    Post-doc at Sapienza University of Rome. Researching Large Language Models and Human-Computer Interaction. Passionate about creating intuitive, AI-driven web experiences.
   </p>
 
   <div>
